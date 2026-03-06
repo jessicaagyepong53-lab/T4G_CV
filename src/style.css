@@ -1,5 +1,5 @@
 body{
-   font-family: 'times new roman', serif;
+   font-family:'times new roman', serif;
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
@@ -116,8 +116,7 @@ hr {
     .contact {
     background: #d5e77a;
     padding: 20px;
-    padding-right: 140px;
-    
+        padding-right: 140px;
     position: relative;
     height: 1px;
     display: flex;
